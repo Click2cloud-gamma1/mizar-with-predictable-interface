@@ -1,0 +1,4 @@
+*.o
+*.a
+/libbpf.pc
+/libbpf.so*
